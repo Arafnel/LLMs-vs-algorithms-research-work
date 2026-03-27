@@ -32,11 +32,11 @@ The core objective of this research is to evaluate how modern Large Language Mod
 - `maze_creation_and_llama-3.1-8b.ipynb`: Experimentation with Llama-3.1-8b.
 - `maze_creation_and_gpt-oss_20b.ipynb`: Experimentation with GPT-OSS-20b.
 - `results_*.csv`: Detailed statistics from the experiments.
-- **`Research work by @arafnel.docx`**: The complete research paper detailing the findings, analysis, and conclusions.
+- **`Research work by @arafnel.pdf`**: The complete research paper detailing the findings, analysis, and conclusions.
 
 ## Research Paper
 
-The formal documentation of this study can be found in the file `Research work by @arafnel.docx` included in this repository. It covers the theoretical background, experimental setup, and in-depth results.
+The formal documentation of this study can be found in the file `Research work by @arafnel.pdf` included in this repository. It covers the theoretical background, experimental setup, and in-depth results.
 
 ---
 *Research work by @arafnel*
